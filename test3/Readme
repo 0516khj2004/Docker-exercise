@@ -1,0 +1,4 @@
+
+docker-compose up 후에 
+manager에 가서 swarm init 후 각 work01,work02,work03에 swarm을 join했습니다.
+manager에서 네트워크(frontend, backend)를 설정하고 todo_app.yml파일을 배포했습니다.
